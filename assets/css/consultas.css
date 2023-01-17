@@ -13,6 +13,8 @@
 .card__paciente {
     display: flex;
     align-items: center;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid var(--background-branco);
 }
 
 .card__paciente--perfil {
@@ -45,6 +47,4 @@
     border-radius: 50%;
 }
 
-hr {
-    color: var(--preto-padrao);
-}
+
