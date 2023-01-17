@@ -1,6 +1,7 @@
 .rodape__container {
     display: flex;
     justify-content: space-evenly;
+    align-items: center;
     border-top: 1px solid var(--cinza-texto);
     padding: 1rem;
     border-radius: 16px;
