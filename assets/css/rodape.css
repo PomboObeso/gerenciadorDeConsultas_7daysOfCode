@@ -1,0 +1,17 @@
+.rodape__container {
+    display: flex;
+    justify-content: space-evenly;
+    border-top: 1px solid var(--cinza-texto);
+    padding: 1rem;
+    border-radius: 16px;
+}
+
+.container__item--desc {
+    color: var(--cinza-texto);
+    font-size: .7rem;
+    margin-top: .3rem;
+}
+
+.ativo{
+    color: var(--azul);
+}
