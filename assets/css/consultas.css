@@ -54,7 +54,33 @@
 
 .card__info--horario {
     font-size: .7rem;
+    margin-bottom: 1rem;
 }
 
+.card__lista--botoes {
+    display: flex;
+    justify-content: space-around;
+}
 
+.card__info--video {
+    background-color: var(--laranja-botao);
+    border-radius: 8px;
+    padding: 1rem;
+}
+.card__info--audio {
+    border: 1px solid var(--preto-padrao);
+    border-radius: 8px;
+    padding: 1rem;
+}
 
+.card__info--descVideo {
+    color: var(--branco);
+    font-size: .8rem;
+    text-decoration: none;
+}
+
+.card__info--descAudio {
+    color: var(--preto-padrao);
+    font-size: .8rem;
+    text-decoration: none;
+}
