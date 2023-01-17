@@ -95,3 +95,12 @@
     text-decoration: none;
 
 }
+.card__consulta--endereco--presencial {
+    font-size: 0.7rem;
+    font-weight: 300;
+}
+.card__consulta--endereco--presencial::before {
+    content: url('../img/pin.svg');
+    
+    margin-right: .5rem;
+}
