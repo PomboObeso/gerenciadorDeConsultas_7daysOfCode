@@ -1,6 +1,8 @@
 @import url('assets/css/cabecalho.css');
+@import url('assets/css/consultas.css');
 
 :root{
+    --branco: #FFF;
     --laranja-botao: #FFB050;
     --preto-padrao: #464646;
     --background-branco: #F9F7FE;
