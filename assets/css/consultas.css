@@ -26,7 +26,7 @@
 .card__paciente--nome {
     font-size: 0.9rem;
     font-weight: 700;
-    margin-bottom: .3rem;
+    margin-bottom: .5rem;
 }
 
 .card__consulta--endereco {
@@ -46,5 +46,15 @@
     background-color: #F6F6F6;
     border-radius: 50%;
 }
+
+.card__horario {
+    padding: 1rem .2rem;
+
+}
+
+.card__info--horario {
+    font-size: .7rem;
+}
+
 
 
