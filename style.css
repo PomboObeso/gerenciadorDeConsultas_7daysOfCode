@@ -1,0 +1,15 @@
+@import url('assets/css/cabecalho.css');
+
+:root{
+    --laranja-botao: #FFB050;
+    --preto-padrao: #464646;
+    --background-branco: #F9F7FE;
+    --cinza-texto: #A3A3A3;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: var(--background-branco);
+    font-size: 16px;
+    color: var(--preto-padrao);
+}

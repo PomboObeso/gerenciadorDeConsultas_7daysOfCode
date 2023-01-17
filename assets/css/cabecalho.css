@@ -1,0 +1,23 @@
+.cabecalho {
+    display: flex;
+    align-items: center;
+    padding: 1.75rem 1rem;
+}
+
+.img__cabecalho--perfil {
+    width: 15%;
+    border-radius: 50%;
+    margin-right: 0.75rem;
+}
+
+.titulo__cabecalho {
+    font-weight: 700;
+    font-size: 1.45rem;
+    margin-bottom: .5rem;
+}
+
+.descricao__consultas {
+    font-weight: 300;
+    color: var(--cinza-texto);
+    font-size: 0.8rem;
+}
