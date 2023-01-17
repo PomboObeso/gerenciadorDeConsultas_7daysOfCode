@@ -100,7 +100,6 @@
     font-weight: 300;
 }
 .card__consulta--endereco--presencial::before {
-    content: url('../img/pin.svg');
-    
+    content: url('../img/pin.svg');   
     margin-right: .5rem;
 }
