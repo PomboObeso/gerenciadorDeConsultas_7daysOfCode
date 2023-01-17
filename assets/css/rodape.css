@@ -6,6 +6,10 @@
     border-radius: 16px;
 }
 
+.rodape__item {
+    text-align: center;
+}
+
 .container__item--desc {
     color: var(--cinza-texto);
     font-size: .7rem;
