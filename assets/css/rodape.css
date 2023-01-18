@@ -2,9 +2,10 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    border-top: 1px solid var(--cinza-texto);
+    border-top: 1px solid var(--background-branco);
     padding: 1rem;
     border-radius: 16px;
+    background-color: var(--branco);
 }
 
 .rodape__item {
