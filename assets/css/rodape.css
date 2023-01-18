@@ -1,3 +1,9 @@
+.rodape__page{
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+}
+
 .rodape__container {
     display: flex;
     justify-content: space-evenly;
