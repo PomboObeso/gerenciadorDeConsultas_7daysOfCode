@@ -17,3 +17,8 @@ body {
     font-size: 16px;
     color: var(--preto-padrao);
 }
+
+.efeito__opacidade{
+    background: #212121;
+    opacity: 0;
+}
