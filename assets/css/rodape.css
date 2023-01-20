@@ -30,12 +30,12 @@
 
 .rodape__btn--agenda{
     background-color: var(--azul);
-    border-radius: 50%;
-    width: 4%;
-    padding: 1rem;
+    border-radius: 100%;
+    width: 5%;
+    padding: 1.5rem;
     text-align: center;
     margin-bottom: 1rem;
-    margin-left: 90%;
+    margin-left: 80%;
     right: 50%;
 }
 
